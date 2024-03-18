@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://citra-emu.org/"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="Citra" width="200"></a>
+  <a href="https://citra-emu.org/"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="Limon" width="200"></a>
   <br>
-  <b>Citra</b>
+  <b>Limon</b>
   <br>
 </h1>
 
-<h4 align="center"><b>Citra</b> is the world's most popular, open-source, Nintendo 3DS emulator.
+<h4 align="center"><b>Limon</b> is the world's most popular, open-source, Nintendo 3DS emulator.
 <br>
 It is written in C++ with portability in mind and builds are actively maintained for Windows, Linux, Android and macOS.
 </h4>
